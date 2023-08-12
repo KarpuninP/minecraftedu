@@ -1,0 +1,40 @@
+Debug logging for Minecraft Server started at: 12. августа. 2023 13:32
+Server.log path: ..\..\debug\server.log
+###############################################
+MinecraftEdu version: 1.7.10 build 22 Classroom
+Forge version: 10.13.4.1614
+PATHS:
+pathMapNoteSettingsFile ../worlds/tmpworld/MCEdu/infoSettings.ini
+pathServerWizardFile ../settings/serverwizardsettings.ini
+pathMapEduSettingsFile EduWorldSettings.ini
+pathMapLogFile ../worlds/tmpworld/MCEdu/log.csv
+pathMapSignLocationsFile ../worlds/tmpworld/MCEdu/signLocations_en.ini
+pathAssignmentData ../worlds/tmpworld/MCEdu/assignmentdata.ini
+pathMapTeleportLocationsFile ../worlds/tmpworld/MCEdu/teleportlocations_en.ini
+pathTmpWorldEduSettingsFolder ../worlds/tmpworld/MCEdu/
+pathMapQuestionLocationsFile null
+pathMapHomeBlockDataFile null
+pathServerProperties server.properties
+pathMapAllowedTeleports ../worlds/tmpworld/MCEdu/allowedteleports.ini
+pathQuizzesDatabase null
+pathEduMainDirectory ../worlds/
+pathSavedMaps ../worlds/savedworlds
+pathCurrentDir C:\Users\user\AppData\Roaming\minecraftedu\servertool\server/
+pathIgnoredServerMods ../../launcher_res/settings/ignoredservermods.ini
+pathMapGeneralTeleportLocationsFile ../worlds/tmpworld/MCEdu/teleportlocations.ini
+pathExternalLibraries ./lib/
+pathDebugWritingFile ../../debug/server.log
+pathBannedCommandsFile ../settings/bannedservercommands.txt
+pathTeleportSettings ../worlds/tmpworld/MCEdu/teleportsettings.ini
+pathMapInfoFile ../worlds/tmpworld/EduMapInfo.ini
+pathTipFile ../worlds/tmpworld/MCEdu/tips_en.txt
+pathMapNoteLocationsFile ../worlds/tmpworld/MCEdu/infoLocations_en.ini
+pathMapTexturesFile ../worlds/tmpworld/MCEdu/resourcepack.zip
+pathReservedAliases ../settings/reserved_aliases.ini
+pathMapEduSettings ../worlds/tmpworld/EduWorldSettings.ini
+pathHomeLocations ../worlds/tmpworld/MCEdu/home_locations.ini
+pathAllowedStudentCommandsFile ../settings/allowedstudentcommands.txt
+pathWorldEditFile ../server/config/worldedit/worldedit.properties
+pathTmpWorld ../worlds/tmpworld
+###############################################
+Returning original spawn point! (client net.minecraft.world.WorldProvider.getRandomizedSpawnPoint(WorldProvider.java:330))

@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "Minecraft": {
+      "name": "Minecraft",
+      "lastVersionId": "1.8.9",
+      "launcherVisibilityOnGameClose": "keep the launcher open"
+    },
+    "MinecraftEdu": {
+      "name": "MinecraftEdu",
+      "lastVersionId": "mceduforge",
+      "javaArgs": "-Xmx1G -Dfml.ignoreInvalidMinecraftCertificates\u003dtrue",
+      "launcherVisibilityOnGameClose": "keep the launcher open"
+    }
+  },
+  "selectedProfile": "MinecraftEdu"
+}

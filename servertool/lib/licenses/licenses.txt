@@ -1,0 +1,7 @@
+MinecraftEdu Servertool is using:
+
+Apache Commons Codec library which is licensed under Apache License.
+Apache Commons Httpclient library which is licensed under Apache License.
+Apache Commons IO library which is licensed under Apache License.
+Apache Commons Logging library which is licensed under Apache License.
+SwingX library which is licensed under LGPL.

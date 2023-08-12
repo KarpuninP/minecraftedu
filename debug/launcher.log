@@ -1,0 +1,16 @@
+Debug logging for MinecraftEdu Launcher started at: 12. августа. 2023 19:10
+###############################################
+MinecraftEdu version: 1.7.10 build 22 Classroom
+PATHS:
+###############################################
+MODS:
+computercraftedu_1.74.jar
+###############################################
+Launcher 1.2.1 (through bootstrap 4) started on windows...
+Current time is Aug 12, 2023 7:10:20 PM
+System.getProperty('os.name') == 'Windows 10'
+System.getProperty('os.version') == '10.0'
+System.getProperty('os.arch') == 'x86'
+System.getProperty('java.version') == '1.8.0_201'
+System.getProperty('java.vendor') == 'Oracle Corporation'
+System.getProperty('sun.arch.data.model') == '32'

@@ -1,0 +1,38 @@
+Debug logging for Minecraft Client started at: 12. августа. 2023 12:48
+###############################################
+MinecraftEdu version: 1.7.10 build 22 Classroom
+Forge version: 10.13.4.1614
+PATHS:
+pathEduKeybindings C:\Users\user\AppData\Roaming\minecraftedu\minecraft/../launcher_res/settings/edukeybindings.ini
+pathEduSettingsFile C:\Users\user\AppData\Roaming\minecraftedu\minecraft/minecraftedusettings.ini
+pathServerTexturesFile C:\Users\user\AppData\Roaming\minecraftedu\minecraft/resourcepacks/eduserverresourcepack.zip
+pathOptionsFile C:\Users\user\AppData\Roaming\minecraftedu\minecraft/options.txt
+pathDebugWritingFile C:\Users\user\AppData\Roaming\minecraftedu\minecraft/../debug/client.log
+pathExternalLibraries ./lib/
+pathLauncherSettingsFile C:\Users\user\AppData\Roaming\minecraftedu\minecraft/../launcher_res/settings/launchersettings.ini
+pathOrigOptionsFile C:\Users\user\AppData\Roaming\minecraftedu\minecraft/../launcher_res/settings/options_orig.txt
+pathIgnoredClientMods C:\Users\user\AppData\Roaming\minecraftedu\minecraft/../launcher_res/settings/ignoredclientmods.ini
+pathMapQuestionLocationsFile C:\Users\user\AppData\Roaming\minecraftedu\minecraft/quizQuestions.ini
+###############################################
+
+Starting up SoundSystem...
+Initializing LWJGL OpenAL
+    (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+OpenAL initialized.
+
+
+SoundSystem shutting down...
+    Author: Paul Lamb, www.paulscode.com
+
+
+Starting up SoundSystem...
+Initializing LWJGL OpenAL
+    (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+OpenAL initialized.
+
+Showing edu connect GUI to connect to server localhost, 25565
+Showing edu connect GUI to connect to server localhost, 25565
+
+SoundSystem shutting down...
+    Author: Paul Lamb, www.paulscode.com
+

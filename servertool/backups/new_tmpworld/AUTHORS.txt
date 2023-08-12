@@ -1,0 +1,24 @@
+# This file is not parsed any way by MinecraftEdu, but instead, you can set here
+# What MinecraftEdu version this map was created with
+# Authors of the map, and some additional information.
+
+# Who have created this map. You can make a list of all authors, if there are many.
+Authors=TeacherGaming, GraphicsMatt, EduElfie
+
+# Map version
+version=1.7.10.4.4
+
+# MinecraftEdu version which was used to create this map.
+MinecraftEdu_version=1.7.4.10
+
+# In what group should this map belong to.
+# If this map is empty map, just type in emptyMaps/
+# for assignment maps, you should type in assignmentMaps/group
+# like: assignmentMaps/Creativity, assignmentMaps/Geography etc.
+Group=tutorialWorld/
+
+# Map description
+Map_description=Premade map for MinecraftEdu plugin.
+
+# Some additional information
+Additional_information=
